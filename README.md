@@ -5,7 +5,7 @@
 ## to update driver
 - webdriver-manager update
 
-## start the webdriver
+## start the webdriver on a new terminal -- selenium server would be running
 - webdriver-manager start
 
 ## change the index.html path in the config.properties file
