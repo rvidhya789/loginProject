@@ -3,10 +3,10 @@
  - sudo npm install -g typescript
 
 ## to update driver
- - webdriver-manager update
+- webdriver-manager update
 
 ## start the webdriver
-- websriver-manager start
+- webdriver-manager start
 
 ## change the index.html path in the config.properties file
 
@@ -14,5 +14,7 @@
   - npm install
   - Webdriver-manager start
   - npm run tests
+
+## After running the tests reports are generated under Reports/report folder
   
   
