@@ -35,7 +35,7 @@
     "log4js": "3.0.1",
     "mkdirp": "^0.5.1",
     "npm-run-all": "^4.1.5",
-    "properties-reader": "^0.0.15",
+    "properties-reader": "^2.2.0",
     "protractor": "~5.4.2",
     "protractor-cucumber-framework": "^6.1.1",
     "rimraf": "^2.6.2",
